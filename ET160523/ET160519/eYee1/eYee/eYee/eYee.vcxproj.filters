@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="eyetracking.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EyeXGaze.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EyeXGaze.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="eYee.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="sample.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="keyboard size up.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_ok.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_a.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_b.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_back.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_c.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_d.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_e.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_enter.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_f.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_g.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_h.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_i.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_j.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_k.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_l.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_m.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_n.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_o.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_p.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_q.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_r.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_s.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_t.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_u.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_v.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_w.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_x.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_y.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key_z.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
